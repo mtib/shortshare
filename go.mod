@@ -1,3 +1,3 @@
-module mtib/shortshare
+module shortshare
 
 go 1.15
